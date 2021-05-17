@@ -1,1 +1,1 @@
-# p38-infinteRunnerGame
+# INFINITE-RUNNER-GAME
